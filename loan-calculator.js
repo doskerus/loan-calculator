@@ -10,7 +10,7 @@ function setupIntialValues() {
 	const intialValues = {
 		amount: 1500000,
 		years: 30,
-		rate: 2.799
+		rate: 2.883
 	};
 	amountInput.value = intialValues.amount;
 	yearsInput.value = intialValues.years;
